@@ -1,4 +1,4 @@
-# ML-guided-RTP_CDs
+# ML-guided-RTP-CDs
 
 By Diva Addini Maghribi Muyassiroh, Fitri Aulia Permatasari, Tomoyuki Hirano, Takashi Ogi, and Ferry Iskandar
 
