@@ -4,7 +4,7 @@ By Diva Addini Maghribi Muyassiroh, Fitri Aulia Permatasari, Tomoyuki Hirano, Ta
 
 ### Introduction
 
-This repository contains models described in the paper "Machine Learning-guided Synthesis of Room-Temperature Phosphorescence Carbon Dots toward Enhanced Ultralong Phosphorescence Lifetime and Information Encryption"
+This repository contains the models described in the paper "Machine Learning-guided Synthesis of Room-Temperature Phosphorescence Carbon Dots toward Enhanced Ultralong Phosphorescence Lifetime and Information Encryption"
 
 ### Data
 
