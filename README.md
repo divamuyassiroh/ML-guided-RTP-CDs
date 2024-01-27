@@ -8,5 +8,5 @@ This repository contains models described in the paper "Machine Learning-guided 
 
 ### Data
 
-0. The dataset can be found at the ESI of the paper
-0. For more detailed description and explanation, please check out the paper
+1. The dataset can be found at the ESI of the paper
+2. For more detailed description and explanation, please check out the paper
